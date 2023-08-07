@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/textAI/static/css/main.10c2fb26.css",
+    "main.js": "/textAI/static/js/main.e73563db.js",
+    "index.html": "/textAI/index.html",
+    "main.10c2fb26.css.map": "/textAI/static/css/main.10c2fb26.css.map",
+    "main.e73563db.js.map": "/textAI/static/js/main.e73563db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10c2fb26.css",
+    "static/js/main.e73563db.js"
+  ]
+}
