@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/textAI/static/css/main.67c3185f.css",
-    "main.js": "/textAI/static/js/main.e73563db.js",
+    "main.css": "/textAI/static/css/main.81a38585.css",
+    "main.js": "/textAI/static/js/main.c09c7f32.js",
     "index.html": "/textAI/index.html",
-    "main.67c3185f.css.map": "/textAI/static/css/main.67c3185f.css.map",
-    "main.e73563db.js.map": "/textAI/static/js/main.e73563db.js.map"
+    "main.81a38585.css.map": "/textAI/static/css/main.81a38585.css.map",
+    "main.c09c7f32.js.map": "/textAI/static/js/main.c09c7f32.js.map"
   },
   "entrypoints": [
-    "static/css/main.67c3185f.css",
-    "static/js/main.e73563db.js"
+    "static/css/main.81a38585.css",
+    "static/js/main.c09c7f32.js"
   ]
 }
