@@ -10,6 +10,7 @@ const App = () => {
     const [isCopied, setCopied] = useClipboard(textToCopy, {
         successDuration:1000
     });
+    
 
     const startListening = () => SpeechRecognition.startListening({ continuous: true, language: 'en-IN' });
     const { transcript, browserSupportsSpeechRecognition } = useSpeechRecognition();
@@ -24,7 +25,7 @@ const App = () => {
             
             <div className="container">
                 
-                <h2>Speech to Text Converter</h2>
+                <h2 style={{paddingTop: "1.4rem"}}>Speech to Text Converter</h2>
                                             <br/>
                 <p>This tool will convert the words you hear from your voice into text, and you can copy it to the clipboard as well.</p>
                          
