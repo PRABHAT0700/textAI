@@ -27,7 +27,7 @@ const App = () => {
                 
                 <h2 style={{paddingTop: "1.4rem"}}>Speech to Text Converter</h2>
                                             <br/>
-                <p>This tool will convert the words you hear from your voice into text, and you can copy it to the clipboard as well.</p>
+                <p>This tool facilitates the conversion of spoken words into text, enabling users to effortlessly copy the transcribed content to the clipboard for convenient access and sharing.</p>
                          
                          <br />
 
